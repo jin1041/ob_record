@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "0bcb52068bdee177",
+    "type": "split",
+    "children": [
+      {
+        "id": "b068b6d64ef21ba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c682bab637d632d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/d2l_Softmax_Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee074a059975a354",
+    "type": "split",
+    "children": [
+      {
+        "id": "8428816dc837a925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f82aae8beeccb20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22f1792485f79231",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e259e8a470e7802",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b40f8af76a04b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fc20640c61c2b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2af88d074dd4f5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Inbox/d2l_Softmax_Regression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5566a72c19a843f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Inbox/d2l_Softmax_Regression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "baebffebda071d54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92c4fbb8c611fffb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Inbox/d2l_Softmax_Regression.md"
+              }
+            }
+          },
+          {
+            "id": "85e6d6780c1ad859",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6c682bab637d632d",
+  "lastOpenFiles": [
+    "00 Inbox/git学习.md",
+    "00 Inbox/python用法记录.md",
+    "00 Inbox/d2l_Softmax_Regression.md",
+    "attachment/Pasted image 20230912225701.png",
+    "attachment/Pasted image 20230912225532.png",
+    "hello.txt",
+    "attachment/Pasted image 20230912133646.png",
+    "attachment/Pasted image 20230911153303.png",
+    "attachment/Pasted image 20230911191511.png",
+    "attachment/Pasted image 20230911201816.png",
+    "attachment/Pasted image 20230911233050.png",
+    "attachment/Pasted image 20230911233025.png",
+    "attachment/Pasted image 20230911232957.png",
+    "attachment/Pasted image 20230911232925.png",
+    "README.md",
+    "未命名 1.md",
+    "未命名.md",
+    "attachment",
+    "00 Inbox"
+  ]
+}
