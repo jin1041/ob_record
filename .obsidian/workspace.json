@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 model/transformer.md",
+                "file": "00 Inbox/1.git学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4041b8f8b4bdfedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/04.json文件格式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34504a464562925a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/2.python用法记录.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 model/transformer.md",
+                "file": "00 Inbox/2.python用法记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 model/transformer.md",
+                "file": "00 Inbox/2.python用法记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 model/transformer.md"
+                "file": "00 Inbox/2.python用法记录.md"
               }
             }
           },
@@ -157,17 +182,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e103ece040193c06",
+  "active": "34504a464562925a",
   "lastOpenFiles": [
+    "00 Inbox/5.菁英班开发.md",
+    "00 Inbox/2.python用法记录.md",
+    "00 Inbox/3.Translation.md",
+    "00 Inbox/04.json文件格式.md",
+    "00 Inbox/1.git学习.md",
+    "attachment/Pasted image 20231123223948.png",
+    "attachment/Pasted image 20231123222854.png",
     "00 Inbox/考公指南.md",
     "01 model/transformer.md",
-    "00 Inbox/3.Translation.md",
-    "00 Inbox/2.python用法记录.md",
-    "00 Inbox/1.git学习.md",
     "README.md",
     "01 model/VAE.md",
     "00 Inbox/d2l_Softmax_Regression.md",
-    "00 Inbox/未命名.md",
     "00 Inbox/Transformer模型详解（图解最完整版） - 知乎.md",
     "2023-10-30.md",
     "Transformer模型详解（图解最完整版） - 知乎.md",
@@ -180,8 +208,6 @@
     "attachment/Pasted image 20230918212451.png",
     "attachment/Pasted image 20230918212411.png",
     "attachment/Pasted image 20230914174033.png",
-    "attachment/Pasted image 20230914174028.png",
-    "attachment/Pasted image 20230912225701.png",
     "hello.txt",
     "未命名 1.md",
     "未命名.md",
